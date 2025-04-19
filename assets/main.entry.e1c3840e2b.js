@@ -912,7 +912,7 @@ function Zt(e) {
     let n, r, s, c, i, l, a, u, d, f, g, x = e[0].displayName + "";
     return {
         c() {
-            n = v("div"), r = v("button"), r.textContent = "◄", s = $(), c = v("div"), i = y("КАНАЛ "), l = v("span"), a = y(x), u = $(), d = v("button"), d.textContent = "►", w(r, "class", "previous cursor-pointer svelte-93ldlz"), w(r, "aria-label", "previous channel"), w(c, "class", "channel"), w(d, "class", "next cursor-pointer svelte-93ldlz"), w(d, "aria-label", "next channel"), w(n, "class", "channel-controller svelte-93ldlz")
+            n = v("div"), r = v("button"), r.textContent = "◄", s = $(), c = v("div"), i = y("CHANNEL"), l = v("span"), a = y(x), u = $(), d = v("button"), d.textContent = "►", w(r, "class", "previous cursor-pointer svelte-93ldlz"), w(r, "aria-label", "previous channel"), w(c, "class", "channel"), w(d, "class", "next cursor-pointer svelte-93ldlz"), w(d, "aria-label", "next channel"), w(n, "class", "channel-controller svelte-93ldlz")
         },
         m(t, e) {
             p(t, n, e), m(n, r), m(n, s), m(n, c), m(c, i), m(c, l), m(l, a), m(n, u), m(n, d), f || (g = [b(r, "click", kt), b(d, "click", bt)], f = !0)
