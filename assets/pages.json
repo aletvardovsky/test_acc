@@ -24,9 +24,13 @@
       "url": "/open-source/"
     },
     {
-      "aliases": ["playlists", "spotify", "music","projects"],
+      "aliases": ["playlists", "spotify", "music", "projects"],
       "url": "/projects/"
     },
+    {
+        "aliases": ["playlists", "spotify", "music", "partnership"],
+        "url": "/partnership/"
+      },
     {
       "aliases": ["resume"],
       "url": "/resume/",
