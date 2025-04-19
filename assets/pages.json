@@ -4,17 +4,8 @@
       "url": "/"
     },
     {
-      "aliases": ["open-source"],
-      "url": "/open-source/"
-    },
-    {
-      "aliases": ["resume"],
-      "url": "/resume/",
-      "external": 1
-    },
-    {
-      "aliases": ["websites"],
-      "url": "/websites/"
+      "aliases": ["playlists", "spotify", "music", "Платформа"],
+      "url": "/platform/"
     },
     {
       "aliases": ["lab", "experiment"],
@@ -27,6 +18,23 @@
     {
       "aliases": ["raymarching"],
       "url": "/lab/raymarching/"
+    },
+    {
+      "aliases": ["open-source"],
+      "url": "/open-source/"
+    },
+    {
+      "aliases": ["playlists", "spotify", "music"],
+      "url": "/playlists/"
+    },
+    {
+      "aliases": ["resume"],
+      "url": "/resume/",
+      "external": 1
+    },
+    {
+      "aliases": ["websites"],
+      "url": "/websites/"
     },
     {
       "aliases": ["github", "repositories"],
