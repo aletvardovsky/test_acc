@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       <url>
-        <loc>https://adred.ru/</loc>
+        <loc>https://test-acc-olive.vercel.app/</loc>
       </url>
       <url>
-        <loc>https://adred.ru/platform/</loc>
+        <loc>https://test-acc-olive.vercel.app/platform/</loc>
       </url>
       <url>
-        <loc>https://adred.ru/cooperation/</loc>
+        <loc>https://test-acc-olive.vercel.app/cooperation/</loc>
       </url>
       <url>
-        <loc>https://adred.ru/projects/</loc>
+        <loc>https://test-acc-olive.vercel.app/projects/</loc>
       </url>
       <url>
-        <loc>https://adred.ru/howtojoin/</loc>
+        <loc>https://test-acc-olive.vercel.app/howtojoin/</loc>
       </url>
 </urlset>

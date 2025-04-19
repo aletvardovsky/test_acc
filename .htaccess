@@ -30,4 +30,4 @@ SetEnvIfNoCase User-Agent "^Parser" search_bot
 
 RewriteEngine On
 RewriteCond %{SERVER_PORT} 80
-RewriteRule ^(.*)$ https://adred.ru/$1 [R,L]
+RewriteRule ^(.*)$ https://test-acc-olive.vercel.app/$1 [R,L]
