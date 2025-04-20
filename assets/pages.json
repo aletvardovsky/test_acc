@@ -28,9 +28,13 @@
       "url": "/projects/"
     },
     {
-        "aliases": ["playlists", "spotify", "music", "partnership"],
-        "url": "/partnership/"
-      },
+      "aliases": ["playlists", "spotify", "music", "partnership"],
+      "url": "/partnership/"
+    },
+    {
+      "aliases": ["playlists", "spotify", "music", "platform"],
+      "url": "/platform/"
+    },
     {
       "aliases": ["resume"],
       "url": "/resume/",

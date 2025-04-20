@@ -17,7 +17,6 @@
   <script>
     ! function(A) {
       "use strict";
-
       function e(A, e, n) {
         const o = function(A) {
           return window.sessionStorage ? JSON.parse(window.sessionStorage.getItem(A + "Support")) : null
@@ -30,7 +29,6 @@
         }
         t(A, o)
       }
-
       function t(e, t) {
         t && A.documentElement.classList.add(e), window.sessionStorage.setItem(e + "Support", t)
       }
@@ -141,13 +139,13 @@
               <footer class="footer" id="footer">
                 <ul class="link-list">
                   <li>
-                    <a href="https://metamentis.com" rel="noopener noreferrer" target="_blank">RESEARCH</a>
-                  </li>
-                  <li>
                     <a href="/sandbox" rel="noopener noreferrer" target="_blank">SANDBOX</a>
                   </li>
                   <li>
                     <a href="mailto:welcome@accensum.com" rel="noopener noreferrer" target="_blank">EMAIL</a>
+                  </li>
+                  <li>
+                    <a href="https://metamentis.com" rel="noopener noreferrer" target="_blank">RESEARCH</a>
                   </li>
                 </ul>
                 <div class="js-space-trigger"></div>
@@ -160,7 +158,7 @@
   </div>
   <div class="js-remote"></div>
   <script>
-    document.querySelector(".js-header-date").innerHTML = new Intl.DateTimeFormat("en", {
+    document.querySelector(".js-header-date").innerHTML = new Intl.DateTimeFormat("en-US", {
       month: "short",
       day: "numeric",
       year: "numeric"
