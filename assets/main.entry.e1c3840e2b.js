@@ -942,7 +942,7 @@ function ne(e) {
     let n, o, r;
     return {
         c() {
-            n = v("button"), n.textContent = "ВИД ИЗ КОСМОСА", w(n, "class", "cursor-pointer svelte-6brq6f")
+            n = v("button"), n.textContent = "SPACE MODE", w(n, "class", "cursor-pointer svelte-6brq6f")
         },
         m(t, e) {
             p(t, n, e), o || (r = b(n, "click", Nt), o = !0)
