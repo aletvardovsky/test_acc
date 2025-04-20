@@ -4,10 +4,6 @@
       "url": "/"
     },
     {
-      "aliases": ["playlists", "spotify", "music", "Платформа"],
-      "url": "/platform/"
-    },
-    {
       "aliases": ["lab", "experiment"],
       "url": "/lab/"
     },
